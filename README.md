@@ -5,4 +5,4 @@
 
 # 現状の成果物(4/7 プリッカソン7にて)
 
-![プリッカソン7](readmeResource/screen_to_gif.gif)
+![](https://github.com/zenmaibane/UchinokoKisekae/blob/master/Assets/readmeResource/screen_to_gif.gif)
